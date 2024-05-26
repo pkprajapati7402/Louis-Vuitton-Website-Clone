@@ -27,7 +27,7 @@ The Louis Vuitton Website Clone project is an attempt to recreate the luxury bra
 - **Search Functionality**: Search for products by name or category.
 
 ## 🎥 Demo
-Check out the live demo of the project [here](#).
+Check out the live demo of the project [here](https://pkprajapati7402.github.io/Louis-Vuitton-Website-Clone/).
 
 ## 🛠️ Installation
 1. **Clone the Repository**:
